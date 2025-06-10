@@ -1,16 +1,60 @@
-## Hi there 👋
+<p align="center">
+    <img width="200" src='https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://yt3.googleusercontent.com/ytc/AIdro_kpgBc467eKWFUi331SHocb-rJbHd6-kdHI_x9jOuCOFW4=s160-c-k-c0x00ffffff-no-rj)'>
+</p>
 
-<!--
-**LouSanter/LouSanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> System.out.print("Hello World!")</h1>
+<p align='center'>
+</p>
 
-Here are some ideas to get you started:
+<div size='20px'> Welcome to my profile :smile: 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About Me</h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 Fanatico de los buenos diseños de patrones
+  
+- 🌱 SOLID principles estan en todos lados!
+  
+- 👯 Estoy en proyectos muy interesantes
+  
+- 💬 Me gusta Java
+  
+- ⚡ Los factos a la Method Factory
+
+<h2><Skills/>></h2>
+<a href=# > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/5968/5968282.png'></a>
+  
+<a href=#> <img width ='32px' src = 'https://cdn-icons-png.flaticon.com/512/4492/4492311.png'> </a>
+
+<a href= #> <img width ='32px' src ='   https://cdn-icons-png.flaticon.com/512/18405/18405529.png '> </a>
+
+<a href=# > <img width ='32px' src ='   https://cdn-icons-png.flaticon.com/512/5968/5968364.png '> </a>
+
+<a href= # > <img width ='32px' src ='https://www.svgrepo.com/show/354380/spring-icon.svg'> </a>
+
+<a href= #> <img width ='32px' src ='https://www.svgrepo.com/show/353874/hibernate.svg'> </a>
+
+<a href= #> <img width ='32px' src ='https://www.svgrepo.com/show/452228/html-5.svg'> </a>
+
+<a href= # > <img width ='32px' src ='https://www.svgrepo.com/show/452185/css-3.svg'> </a>
+
+<a href= #> <img width ='32px' src ='https://www.svgrepo.com/show/452091/python.svg'> </a>
+
+<a href= #> <img width ='32px' src ='https://www.svgrepo.com/show/354202/postman-icon.svg'> </a>
+
+<a href=#> <img width ='32px' src ='https://www.svgrepo.com/show/452149/adobe-photoshop.svg'> </a>
+
+<a href= # > <img width ='32px' src ='https://dbdb.io/media/logos/h2-logo.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
+<br>
+<br>
