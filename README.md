@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img width="200" src="https://yt3.googleusercontent.com/ytc/AIdro_kpgBc467eKWFUi331SHocb-rJbHd6-kdHI_x9jOuCOFW4=s160-c-k-c0x00ffffff-no-rj" alt="Banner" />
-</p>
 
 <!-- Título -->
 <h1 align="center">System.out.print("Hello World!");</h1>
